@@ -1,4 +1,4 @@
-# android_kernel_nokia_sdm660
+# android_kernel_nokia_B2N
  Linux kernel release 4.x <http://kernel.org/>
 
 These are the release notes for Linux version 4.  Read them carefully,
